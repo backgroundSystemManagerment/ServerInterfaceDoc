@@ -20,4 +20,8 @@ isBackDeposit| true|押金状态|String
   
 ```
 {retCode:'0000',regMsg:'成功'}
-```
+字段名 | 名称 | 类型| 说明|
+---|---|---|---|
+retCode | 返回状态码 |String|000000:成功
+retMsg| 返回信息|String|成功
+retData|返回数据对象|Object|
